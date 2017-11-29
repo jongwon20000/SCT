@@ -5,7 +5,7 @@
                                    CVPR2016
 
 ________________
-Project webpage: https://sites.google.com/site/jwchoivision/
+Project webpage: https://sites.google.com/site/jwchoivision/home/sct
 
 This MATLAB program implements a visual tracker, SCT4.
 
